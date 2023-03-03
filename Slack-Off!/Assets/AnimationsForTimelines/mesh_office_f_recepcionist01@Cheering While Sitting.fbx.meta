@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 5e9a567a09f5045b9b6848a1fb139814
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: bind_office_f_recepcionist_hips01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_l_thigh01
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_r_thigh01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_l_calf01
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_r_calf01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_l_foot01
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_r_foot01
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_spine_a01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_spine_b01
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_neck01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_head01
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_l_shoulder01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_r_shoulder01
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_l_upperarm01
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_r_upperarm01
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_l_forearm01
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_r_forearm01
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_recepcionist_l_hand01
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_recepcionist_r_hand01
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_recepcionist_spine_c01
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mesh_office_f_recepcionist01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_office_f_recepcionist01
+      parentName: mesh_office_f_recepcionist01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_hips01
+      parentName: mesh_office_f_recepcionist01(Clone)
+      position: {x: -0, y: 0.0037171466, z: 0.00011926096}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_l_thigh01
+      parentName: bind_office_f_recepcionist_hips01
+      position: {x: -0.00040099322, y: -0.00010237694, z: -0.000016460548}
+      rotation: {x: -0.0000061953833, y: 0.032359388, z: 0.99947625, w: 0.00019135524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_l_calf01
+      parentName: bind_office_f_recepcionist_l_thigh01
+      position: {x: 8.8817833e-20, y: 0.0017085444, z: 0}
+      rotation: {x: -0.076389864, y: -0.000076439144, z: 0.0009977208, w: 0.9970775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_l_foot01
+      parentName: bind_office_f_recepcionist_l_calf01
+      position: {x: -0, y: 0.0016962481, z: -2.2204458e-20}
+      rotation: {x: 0.5383741, y: 0.054387342, z: -0.034848616, w: 0.84022677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_recepcionist_l_toes01
+      parentName: bind_office_f_recepcionist_l_foot01
+      position: {x: -0.00009999999, y: 0.00057002075, z: 0.00008132638}
+      rotation: {x: 0.25996527, y: 0.098469034, z: -0.026659189, w: 0.96021414}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_r_thigh01
+      parentName: bind_office_f_recepcionist_hips01
+      position: {x: 0.00040099322, y: -0.00010237694, z: -0.000022648393}
+      rotation: {x: 0.0000062655326, y: 0.03272736, z: 0.9994643, w: -0.00019134377}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_r_calf01
+      parentName: bind_office_f_recepcionist_r_thigh01
+      position: {x: -0, y: 0.0017086264, z: 8.8817833e-20}
+      rotation: {x: -0.07579607, y: 0.00007584339, z: -0.0009977453, w: 0.9971228}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_r_foot01
+      parentName: bind_office_f_recepcionist_r_calf01
+      position: {x: -0, y: 0.001695962, z: 1.1102229e-20}
+      rotation: {x: 0.5392329, y: -0.05392989, z: 0.034631748, w: 0.8397143}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_recepcionist_r_toes01
+      parentName: bind_office_f_recepcionist_r_foot01
+      position: {x: 0.00009999999, y: 0.0005739605, z: 0.00008115805}
+      rotation: {x: 0.25811607, y: -0.099051476, z: 0.02661392, w: 0.96065426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_spine_a01
+      parentName: bind_office_f_recepcionist_hips01
+      position: {x: -0, y: 0.00018541641, z: -0.000014632224}
+      rotation: {x: -0.039366, y: 0, z: -0, w: 0.9992249}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_spine_b01
+      parentName: bind_office_f_recepcionist_spine_a01
+      position: {x: -0, y: 0.00021699142, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_spine_c01
+      parentName: bind_office_f_recepcionist_spine_b01
+      position: {x: -0, y: 0.00024799074, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_l_shoulder01
+      parentName: bind_office_f_recepcionist_spine_c01
+      position: {x: -0.00020681214, y: 0.00025335827, z: -0.000001668094}
+      rotation: {x: 0.52744055, y: -0.4704063, z: 0.53169763, w: 0.46671408}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_l_upperarm01
+      parentName: bind_office_f_recepcionist_l_shoulder01
+      position: {x: -0, y: 0.00041442004, z: 0}
+      rotation: {x: -0.03803469, y: -0.10653372, z: 0.002250999, w: 0.9935788}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_l_forearm01
+      parentName: bind_office_f_recepcionist_l_upperarm01
+      position: {x: -0, y: 0.0013799537, z: 0}
+      rotation: {x: -0.017091637, y: 0.002179928, z: -0.03758634, w: 0.9991449}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_recepcionist_l_hand01
+      parentName: bind_office_f_recepcionist_l_forearm01
+      position: {x: 4.4408917e-20, y: 0.0013766327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_neck01
+      parentName: bind_office_f_recepcionist_spine_c01
+      position: {x: -0, y: 0.0002789889, z: -4.2119953e-11}
+      rotation: {x: 0.039365932, y: -0, z: -0, w: 0.9992249}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_head01
+      parentName: bind_office_f_recepcionist_neck01
+      position: {x: -0, y: 0.00021454316, z: 0.00001968544}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_recepcionist_head01
+      parentName: bind_office_f_recepcionist_head01
+      position: {x: -0, y: 0.0011876839, z: 0.00010897611}
+      rotation: {x: 1.6543612e-23, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_r_shoulder01
+      parentName: bind_office_f_recepcionist_spine_c01
+      position: {x: 0.00020681214, y: 0.00025341386, z: -0.0000023729033}
+      rotation: {x: -0.5264697, y: -0.47128043, z: 0.5325332, w: -0.4659751}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_r_upperarm01
+      parentName: bind_office_f_recepcionist_r_shoulder01
+      position: {x: -0, y: 0.00041442004, z: 0}
+      rotation: {x: -0.037911676, y: 0.10414543, z: -0.004892944, w: 0.9938272}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_recepcionist_r_forearm01
+      parentName: bind_office_f_recepcionist_r_upperarm01
+      position: {x: -8.8817833e-20, y: 0.0013797432, z: 0}
+      rotation: {x: -0.016626988, y: -0.002023905, z: 0.037423395, w: 0.99915916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_recepcionist_r_hand01
+      parentName: bind_office_f_recepcionist_r_forearm01
+      position: {x: -0, y: 0.0013762286, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0f623bf014001584995ab5372e19323d, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
